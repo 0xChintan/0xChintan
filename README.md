@@ -1,6 +1,6 @@
 # 👋 Hi, I’m @0xChintan
 
-- 👀 I’m interested in **Blockchain Development**, **Web3**, **Defi**, **Frontend**, ** Backend**.
+- 👀 I’m interested in **Blockchain Development**, **Web3**, **Defi**, **Frontend**, **Backend**.
 - 🌱 I’m currently learning **Solidity**.
 - 💞️ I’m looking to collaborate on **Blockchain-based projects** and **Decentralized Applications (dApps)**..
 - 😄 Pronouns: **0xChintan** (whichever you prefer).
